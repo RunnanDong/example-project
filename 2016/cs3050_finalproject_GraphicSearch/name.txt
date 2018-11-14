@@ -1,0 +1,15 @@
+障碍物1坐标：  int  xob1,yob1
+障碍物2坐标：  int  xob2,yob2
+
+机器人起始坐标 int xl.yl   (小写的l) 
+机器人终点坐标 int xf.yf    
+
+ int speed_of_obstacle;
+    int speed_of_obstacle2;
+    
+    unsigned int ROOM_SIZE;
+    int initialpositionofrobot1(left vertex), initialpositionofrobot2;(right vertex)
+    int finalpositionofrobot1(left vertex), finalpositionofrobot2;(right vertex)
+    int leftpositionofob1, rightpositionofob1;
+    int leftpositionofob2;
+    int rightpositionofob2;
